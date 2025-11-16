@@ -252,7 +252,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **[Your Name]** - *Initial work* - [Your GitHub](https://github.com/yourusername)
+- Suryaprakash S - SURVEX - Group of tech solutions
 - **Sri Eshwar College of Engineering** - *Academic Institution*
 
 ## 🙏 Acknowledgments
@@ -261,12 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community for tools and libraries
 - Urban planning research for domain knowledge
 - Bootstrap and FontAwesome for UI components
-
-## 📞 Contact
-
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Project Link:** [Repository URL]
 
 ---
 
