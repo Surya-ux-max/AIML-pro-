@@ -1,4 +1,4 @@
-# Urban Mobility and Smart City Prediction System
+# SURVEX - Urban Mobility and Smart City Prediction System
 
 🏙️ **AI-Powered Urban Intelligence Platform for Smart City Management**
 
@@ -266,4 +266,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
+<<<<<<< HEAD
 **🔗 Share with others interested in Smart City AI solutions!**
+=======
+**🔗 Share SURVEX with others interested in Smart City AI solutions!**
+>>>>>>> 233269e (brand update)
